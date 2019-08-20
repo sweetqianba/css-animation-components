@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        margin: 0;
+    }
+
+    .container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 100;
+    }
+
+    .img {
+        position: fixed
+    }
+
+    .special1 {
+        animation: special1 3s ease infinite;
+    }
+
+    .special2 {
+        animation: special2 3s ease infinite;
+    }
+
+    .special3 {
+        animation: special3 3s ease infinite;
+    }
+
+    .special4 {
+        animation: special4 3s ease infinite;
+    }
+
+    .special5 {
+        animation: special5 3s ease infinite;
+    }
+
+    .special6 {
+        animation: special6 3s ease infinite;
+    }
+
+    @keyframes special1 {
+        0% {
+            transform: rotate(0deg);
+            transform-origin: 50px 150px;
+        }
+
+        49.9% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+
+        50% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+
+        100% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+    }
+
+    @keyframes special2 {
+        0% {
+            transform: rotate(0deg);
+            transform-origin: 50px 150px;
+        }
+
+        41.5%,
+        49.9% {
+            transform: rotate(300deg);
+            transform-origin: 50px 150px;
+        }
+
+        50% {
+            transform: rotate(300deg);
+            transform-origin: 50px 150px;
+        }
+
+        100% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+    }
+
+    @keyframes special3 {
+        0% {
+            transform: rotate(0deg);
+            transform-origin: 50px 150px;
+        }
+
+        33.2%,
+        49.9% {
+            transform: rotate(240deg);
+            transform-origin: 50px 150px;
+        }
+
+        50% {
+            transform: rotate(240deg);
+            transform-origin: 50px 150px;
+        }
+
+        100% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+    }
+
+    @keyframes special4 {
+        0% {
+            transform: rotate(0deg);
+            transform-origin: 50px 150px;
+        }
+
+        24.9%,
+        49.9% {
+            transform: rotate(180deg);
+            transform-origin: 50px 150px;
+        }
+
+        50% {
+            transform: rotate(180deg);
+            transform-origin: 50px 150px;
+        }
+
+        100% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+    }
+
+    @keyframes special5 {
+        0% {
+            transform: rotate(0deg);
+            transform-origin: 50px 150px;
+        }
+
+        16.6%,
+        49.9% {
+            transform: rotate(120deg);
+            transform-origin: 50px 150px;
+        }
+
+        50% {
+            transform: rotate(120deg);
+            transform-origin: 50px 150px;
+        }
+
+        100% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+    }
+
+    @keyframes special6 {
+        0% {
+            transform: rotate(0deg);
+            transform-origin: 50px 150px;
+        }
+
+        8.3%,
+        49.9% {
+            transform: rotate(60deg);
+            transform-origin: 50px 150px;
+        }
+
+        50% {
+            transform: rotate(60deg);
+            transform-origin: 50px 150px;
+        }
+
+        100% {
+            transform: rotate(360deg);
+            transform-origin: 50px 150px;
+        }
+    }
+</style>
+
+<body>
+    <div class="container">
+        <img class="img special1" src="./love.png">
+        <img class="img special2" src="./love.png">
+        <img class="img special3" src="./love.png">
+        <img class="img special4" src="./love.png">
+        <img class="img special5" src="./love.png">
+        <img class="img special6" src="./love.png">
+    </div>
+</body>
+
+</html>
