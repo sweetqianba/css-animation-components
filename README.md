@@ -3,11 +3,12 @@
 ### 首先声明，这些例子都是网上的大神写的，然后我为了学习，稍微改了一下，可以理解的更加透彻
 
 * loadingAnimation的示例
-  * ![loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/square-loading-animation/loading-animation.gif?raw=true)
+
+  * ![loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/dev/square-loading-animation/loading-animation.gif?raw=true)
 
 * flower-loading-animation的示例
 
-  * ![loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/flower-loading-animation/flower-loading-animation.gif?raw=true)
+  * ![flower-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/dev/flower-loading-animation/flower-loading-animation.gif?raw=true)
 
 * 
 
