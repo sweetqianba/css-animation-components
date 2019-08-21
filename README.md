@@ -27,6 +27,3 @@
   * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/doudou-loading-animation/doudou-loading-animation.gif?raw=true)
 * 
 
-  
-
-  
