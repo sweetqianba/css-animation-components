@@ -10,6 +10,10 @@
 
   * ![flower-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/dev/flower-loading-animation/flower-loading-animation.gif?raw=true)
 
+* webpack-loading-animation的示例（最近看到webpack官网有感而发）
+
+  * ![flower-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/dev/webpack-loading-animation/webpack-loading-animation.gif?raw=true)
+
 * 
 
   
