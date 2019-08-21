@@ -14,6 +14,10 @@
 
   * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/webpack-loading-animation/webpack-loading-animation.gif?raw=true)
 
+* 旋转木马-相册（xuanzhuanmuma-3D-transform）
+
+  * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/xuanzhuanmuma-3D-transform/xuanzhuanmuma-3D-transform.gif?raw=true)
+
 * 
 
   
