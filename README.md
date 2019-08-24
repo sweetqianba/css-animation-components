@@ -19,10 +19,20 @@
   * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/xuanzhuanmuma-3D-transform/xuanzhuanmuma-3D-transform.gif?raw=true)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * 西瓜-loading（xigua-loading-animation）
     * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/xigua-loading-animation/xigua-loading-animation.gif?raw=true)
 
 * 豆豆-loading（doudou-loading-animation）
+=======
+* 西瓜-loading（xigua-loading-animation）
+
+  * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/xigua-loading-animation/xigua-loading-animation.gif?raw=true)
+
+* 
+
+* 
+>>>>>>> 西瓜loading
 
   * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/doudou-loading-animation/doudou-loading-animation.gif?raw=true)
 * 
