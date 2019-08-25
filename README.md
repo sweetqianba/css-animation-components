@@ -22,7 +22,9 @@
 
   * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/xigua-loading-animation/xigua-loading-animation.gif?raw=true)
 
-* 
+* 豆豆-loading（doudou-loading-animation）
+
+  * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/doudou-loading-animation/doudou-loading-animation.gif?raw=true)
 
 * 
 
