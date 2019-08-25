@@ -12,7 +12,7 @@
 
 * webpack-loading-animation的示例（最近看到webpack官网有感而发）
 
-  * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/webpack-loading-animation/webpack-loading-animation.gif?raw=true)
+    * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/webpack-loading-animation/webpack-loading-animation.gif?raw=true)
 
 * 旋转木马-相册（xuanzhuanmuma-3D-transform）
 
@@ -25,7 +25,6 @@
 * 豆豆-loading（doudou-loading-animation）
 
   * ![webpack-loading-animation.gif](https://github.com/sweetqianba/css-animation-components/blob/master/doudou-loading-animation/doudou-loading-animation.gif?raw=true)
-
 * 
 
   
